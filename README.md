@@ -1,2 +1,5 @@
-# Be-Home-Coffee
-A modern and minimal brand identity project for Be Home Coffee, featuring a custom logo, icon, color palette, typography, and black &amp; white logo variations. Designed using Inkscape.
+# Be Home Coffee — Brand Identity
+
+Responsive presentation page for the Be Home Coffee brand identity project.
+
+Upload `index.html` to the root of your GitHub repository and keep your `Logo` folder beside it.
